@@ -4611,11 +4611,14 @@
   optionalDependencies:
     "source-map" "~0.6.1"
 
+<<<<<<< HEAD
 "eslint-config-prettier@^8.1.0":
   "integrity" "sha512-oKMhGv3ihGbCIimCAjqkdzx2Q+jthoqnXSP+d86M9tptwugycmTFdVR4IpLgq2c4SHifbwO90z2fQ8/Aio73yw=="
   "resolved" "https://registry.npmjs.org/eslint-config-prettier/-/eslint-config-prettier-8.1.0.tgz"
   "version" "8.1.0"
 
+=======
+>>>>>>> d76ffc3d8c525e800ed80147588b431aa80bc73c
 "eslint-config-react-app@^6.0.0":
   "integrity" "sha512-bpoAAC+YRfzq0dsTk+6v9aHm/uqnDwayNAXleMypGl6CpxI9oXXscVHo4fk3eJPIn+rsbtNetB4r/ZIidFIE8A=="
   "resolved" "https://registry.yarnpkg.com/eslint-config-react-app/-/eslint-config-react-app-6.0.0.tgz"
